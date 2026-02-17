@@ -6,11 +6,11 @@ This is a simple AI-powered API that connects to a pre-trained model from [Huggi
 
 ## 🚀 Features
 
-- 🔗 Connects to a Hugging Face hosted model using an API token
-- 📥 Accepts user input (text) and sends it to the model
-- 🧠 Returns answer in terminal
-- 🔒 Uses `.env` for secure token handling
-- 🐍 Built in Python 
+- Connects to a Hugging Face hosted model using an API token
+- Accepts user input (text) and sends it to the model
+- Returns answer in terminal
+- Uses `.env` for secure token handling
+- Built in Python 
 
 ---
 
